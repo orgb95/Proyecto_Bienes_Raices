@@ -1,0 +1,6 @@
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Common\bin\Debug\Common.dll
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Common\bin\Debug\Common.pdb
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Common\obj\Debug\Common.dll
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Common\obj\Debug\Common.pdb

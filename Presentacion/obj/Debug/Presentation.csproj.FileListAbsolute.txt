@@ -1,0 +1,6 @@
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Presentacion\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Presentacion\obj\Debug\Presentacion.AdvertenciaCerrar.resources
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Presentacion\obj\Debug\Presentacion.SeleccionLogin.resources
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Presentacion\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\Presentacion\obj\Debug\Presentation.csproj.CoreCompileInputs.cache

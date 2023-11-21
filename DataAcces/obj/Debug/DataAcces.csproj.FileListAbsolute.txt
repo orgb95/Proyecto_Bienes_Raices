@@ -1,0 +1,2 @@
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\DataAcces\obj\Debug\DataAcces.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\Bienes_Raices_2.0\DataAcces\obj\Debug\DataAcces.csproj.CoreCompileInputs.cache
